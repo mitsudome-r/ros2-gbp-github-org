@@ -84,6 +84,7 @@ locals {
     local.interactive_marker_twist_team,
     local.introlab_team,
     local.irobot_education_team,
+    local.jafarabdi_team,
     local.josh_newans_team,
     local.kinova_robotics_team,
     local.kobuki_base_team,
