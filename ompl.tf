@@ -1,5 +1,7 @@
 locals {
   ompl_team = [
+    "JafarAbdi",
+    "MarqRazz",
     "mamoll",
     "yadunund",
   ]
