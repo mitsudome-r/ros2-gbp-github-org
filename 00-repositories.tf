@@ -2,6 +2,7 @@
 locals {
   organization_repositories = setunion(
     local._42dot_repositories,
+    local._4am_robotics_repositories,
     local._archived_repositories,
     local.acceleration_wg_repositories,
     local.ackermann_msgs_repositories,
