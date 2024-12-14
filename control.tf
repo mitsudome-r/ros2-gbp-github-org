@@ -1,7 +1,7 @@
 locals {
   control_team = [
-    "Karsten1987",
     "bmagyar",
+    "christophfroehlich",
   ]
   control_repositories = [
     "control_msgs-release",
