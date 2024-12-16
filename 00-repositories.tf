@@ -86,7 +86,7 @@ locals {
     local.interactive_marker_twist_repositories,
     local.introlab_repositories,
     local.irobot_education_repositories,
-    local.jafarabdi_team,
+    local.jafarabdi_repositories,
     local.josh_newans_repositories,
     local.kinova_robotics_repositories,
     local.kobuki_base_repositories,
