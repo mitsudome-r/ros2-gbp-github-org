@@ -1,6 +1,7 @@
 locals {
   tier4_team = [
     "mitsudome-r",
+    "amadeuszsz",
   ]
   tier4_repositories = [
     "cudnn_cmake_module-release",
